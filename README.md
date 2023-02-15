@@ -1,0 +1,1 @@
+# blog_places_mobile.io
