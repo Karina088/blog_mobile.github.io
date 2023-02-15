@@ -1,1 +1,1 @@
-# blog_places_mobile.io
+# blog_places_mobile.github.io
